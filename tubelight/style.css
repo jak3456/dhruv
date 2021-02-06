@@ -27,6 +27,20 @@ h2{
     animation: animate 5s linear infinite;
 }
 
+@media (max-width: 450px){
+    h2{
+        font-size: 4em;
+        letter-spacing: 5px;
+    }
+}
+
+@media (max-width: 650px) and (min-width: 450px){
+    h2 {
+        font-size: 5em;
+        letter-spacing: 6px;
+    }
+}
+
 @keyframes animate 
 {
   0%,18%,20%,50.1%,60.1%,65.1%,80%,90.1%,92%
