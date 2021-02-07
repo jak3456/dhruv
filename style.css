@@ -61,6 +61,8 @@ body{
 
 .list ul li a{
     /* font-size: clamp(1rem,2.5vw,2rem); */
+    text-decoration: none;
+    color: red;
     position: relative;
     padding: 8px;
     display: inline-block;
