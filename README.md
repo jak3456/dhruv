@@ -1,16 +1,7 @@
 ### Hi there, I am Druv Jagdish <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
-## I'm a Ethical Hacker, Programmer and Web Developer
-
-- 🔭 I’m currently working with VS Code 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
- <!---[![Jak's github stats](https://github-readme-stats.vercel.app/api?username=jak3456)](https://github.com/jak3456/github-readme-stats)-->
-![Jak's github stats](https://github-readme-stats.vercel.app/api?username=jak3456&show_icons=true&theme=radical)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jak3456)](https://github.com/jak3456/github-readme-stats)
+## All of this creative page credit goes to online tutorials youtube channel.
 
 
 ### Connect with me:
